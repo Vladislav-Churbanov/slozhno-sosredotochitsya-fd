@@ -22,3 +22,7 @@
 .theme-dark .header__theme-menu-button_type_dark {
   border: 1px solid var(--menu-button-text-color);
 }
+
+.theme-dark .lamp {
+  display: flex;
+}

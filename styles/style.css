@@ -119,7 +119,6 @@
 }
 
 .content {
-  background-color: var(--bg-color);
   padding-top: 22px;
   padding-inline: 10px;
   margin-bottom: 40px;
@@ -177,7 +176,6 @@
   grid-template-rows: repeat(5, min-content);
   gap: 10px;
   margin-top: 10px;
-  background-color: var(--bg-color);
 }
 
 .image {
@@ -191,7 +189,6 @@
   min-block-size: 668px;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
-  background-color: var(--bg-color);
   align-items: center;
   padding-inline: 10px;
 }

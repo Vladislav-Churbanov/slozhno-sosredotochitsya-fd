@@ -43,8 +43,8 @@
     --focus-shadow-color: #FF0070;
     --menu-button-text-color: #353430;
   }
-  
-  .theme-auto .lamp {
+
+  .lamp {
     display: none;
   }
 }
