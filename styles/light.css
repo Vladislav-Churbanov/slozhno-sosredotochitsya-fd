@@ -23,6 +23,10 @@
   display: none;
 }
 
+.theme-light .header__theme-menu-button_type_light {
+  border: 1px solid var(--menu-button-text-color);
+}
+
 @media (prefers-color-scheme: light) {
   :root {   
     --bg-image: url(../images/cover-image-light.png);
