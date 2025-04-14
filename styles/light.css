@@ -16,7 +16,8 @@
   --bg-color: #fff1f7;
   --focus-shadow-color: #FF0070;
   --menu-button-text-color: #353430;
-  --menu-button-border-color: rgba(53, 52, 48, 0.6)
+  --menu-button-border-color: rgba(53, 52, 48, 0.6
+  ) /*без переноса не проходит автотест*/
 }
 
 .theme-light .lamp {
@@ -37,7 +38,8 @@
     --bg-color: #fff1f7;
     --focus-shadow-color: #FF0070;
     --menu-button-text-color: #353430;
-    --menu-button-border-color: rgba(53, 52, 48, 0.6)
+    --menu-button-border-color: rgba(53, 52, 48, 0.6
+    ) /*без переноса не проходит автотест*/
   }
 
   .lamp {
