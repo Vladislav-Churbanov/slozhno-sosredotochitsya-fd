@@ -6,7 +6,6 @@
 
 :root.theme-dark {
   --bg-image: url(../images/cover-image-dark.png);
-  --content-font-family: 'IBM Plex mono';
   --accent-color: #ff0070;
   --content-title-color: #ff0070;
   --decoration-color: #ff0070;
@@ -17,10 +16,7 @@
   --bg-color: #000028;
   --focus-shadow-color: #FF0070;
   --menu-button-text-color: #ff0070;
-}
-
-.theme-dark .header__theme-menu-button_type_dark {
-  border: 1px solid var(--menu-button-text-color);
+  --menu-button-border-color: rgba(255, 0, 112, 0.6)
 }
 
 .theme-dark .lamp {
